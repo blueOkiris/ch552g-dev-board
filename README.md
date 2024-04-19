@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple breakout board with minimal hardware design for the CH552g
+A simple breakout board with minimal hardware design for the CH552g as well as a C project to be used as a basis.
 
 I've become fond of the CH552g for projects as it's simple like AVR unlike something like ARM, but it doesn't require a programmer and has built-in USB support from the factory, unlike something like AVR but like ARM.
 
