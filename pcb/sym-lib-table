@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ch552g")(type "KiCad")(uri "${KIPRJMOD}/ch552g/ch552g.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,33 @@
+# PCB output and backups
+*.zip
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gm1
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.gbrjob
+*.drl
+*.drl
+*.lck
+
+# Build env
+.venv
+
+# ch554_sdcc output
+*.ihx
+*.lk
+*.map
+*.mem
+*.lst
+*.rel
+*.rst
+*.sym
+*.asm
+*.adb
+*.hex
+*.bin
+
