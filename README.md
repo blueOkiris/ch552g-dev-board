@@ -8,8 +8,6 @@ I've become fond of the CH552g for projects as it's simple like AVR unlike somet
 
 To ensure I don't have to constantly order pcb after pcb, I've created this dev board that can go on a breadboard, so I can prototype with the chip more easily.
 
-NOTE: Rev 1 is currently being tested! I don't know if I've gotten everything correct yet! I will create a release and change this note once I have the boards made.
-
 ## Order Boards
 
 Open up KiCAD and export the Gerber and Drill files and zip them up.
@@ -19,8 +17,6 @@ Then go to JLCPCB's website, start a new order with the zip file, and select PCB
 Then upload the provided BOM and CPL (in the pcb/ folder) and submit an order.
 
 ## Build Example Code 
-
-For those who want to use their own tools or try their hand at C programming the Game-Card X.
 
 First, clone the repo, then make sure you clone all submodules: `git submodule update --init --recursive`
 
