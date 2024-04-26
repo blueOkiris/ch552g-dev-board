@@ -8,6 +8,8 @@ I've become fond of the CH552g for projects as it's simple like AVR unlike somet
 
 To ensure I don't have to constantly order pcb after pcb, I've created this dev board that can go on a breadboard, so I can prototype with the chip more easily.
 
+![img](./ch552g-dev-board.jpg)
+
 ## Order Boards
 
 Open up KiCAD and export the Gerber and Drill files and zip them up.
