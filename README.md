@@ -12,7 +12,7 @@ To ensure I don't have to constantly order pcb after pcb, I've created this dev 
 
 ## Order Boards
 
-Open up KiCAD and export the Gerber and Drill files and zip them up.
+Open up KiCAD and export the Gerber and Drill files and zip them up or grab a zip from Releases.
 
 Then go to JLCPCB's website, start a new order with the zip file, and select PCB Assembly.
 
