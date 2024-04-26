@@ -51,7 +51,7 @@ Run `make -C example-code` (or `mingw32-make -C example-code`), and it will buil
 
 __Linux:__
 
-Assuming the game has been built, to upload:
+Assuming the program has been built, to upload:
 
 1. Hold down a button on the board you want to upload to
 2. Plug into USB and let go of the button
